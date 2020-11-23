@@ -70,10 +70,10 @@ input:focus {
 }
 
 #container {
-	width: 360px;
+	width: 90%;
+	max-width: 360px;
 	margin: 120px auto;
 	background-color: #f7f7f7;
-	
 	box-shadow: 0 0 3px rgba(0,0,0 0.1);
 }
 
